@@ -83,5 +83,5 @@
 ### 🔍 Currently Exploring
 - ⚡ Improving my **DSA** skills
 - 🌐 Enhancing **React.js & Next.js** expertise
-- 🔥 Learning **System Design & Scalable Applications**
+- 🔥 Learning **Data Science**
 - 🏗 Building personal projects for hands-on experience
