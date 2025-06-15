@@ -72,12 +72,12 @@
 
 ### 📈 Activity Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamAttri05&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamAttri05&show_icons=true&theme=radical" width="50%" />
 </p>
 
 ### 🔥 Most Used Languages
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivamAttri05&show_icons=true&locale=en&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivamAttri05&show_icons=true&locale=en&layout=compact&theme=radical" width="50%" />
 </p>
 
 ### 🔍 Currently Exploring
