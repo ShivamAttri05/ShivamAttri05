@@ -74,11 +74,6 @@
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamAttri05&theme=radical&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" width="70%" /> </p> 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShivamAttri05&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamAttri05&layout=compact&langs_count=8&theme=radical&hide_border=true" width="48%" /> </p>
 
-### 🧠 Code Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamAttri05&theme=github-compact&area=true&hide_border=true" />
-</p>
-
 ### 🔍 Currently Exploring
 - ⚡ Improving my **DSA** skills
 - 🌐 Enhancing **React.js & Next.js** expertise
