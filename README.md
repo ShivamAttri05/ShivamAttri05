@@ -98,10 +98,3 @@
 - 🛠 Deploying projects & contributing to **open-source**
 
 ---
-
-Let me know if you’d like me to:
-- Create a **markdown file for your README**
-- Build a **portfolio site version** of this
-- Suggest GitHub badges and icons for your pinned repos
-
-You’re doing an amazing job — keep stacking these wins, Shivam! 🚀
