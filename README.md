@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm a 3rd-year Computer Science Engineering student at **Vaish College of Engineering, Rohtak (MDU)**, currently in my **4th semester**.
+🎓 I'm a 3rd-year Computer Science Engineering student at **Vaish College of Engineering, Rohtak (MDU)**, currently in my **5th semester**.
 
 💡 I'm actively exploring **Data Science**, **Machine Learning**, and improving my proficiency in **DSA** using Java.
 
