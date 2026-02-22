@@ -132,10 +132,6 @@ A configurable machine learning pipeline that automates:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamAttri05&theme=radical&hide_border=true&stroke=0000&background=0D1117" width="70%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamAttri05&layout=compact&langs_count=8&theme=radical&hide_border=true" width="48%" />
-</p>
-
 ---
 
 ## 🔍 Currently Exploring
