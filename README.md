@@ -134,7 +134,6 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamAttri05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamAttri05&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" width="48%" alt="GitHub Streak" />
 </div>
 
